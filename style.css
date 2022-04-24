@@ -42,7 +42,8 @@ box-sizing: border-box;
   border-radius: 40px;
   background-color: #000;
   box-sizing: border-box;
-  margin: 10px;
+  margin: 30px;
+  padding: 5px;
 }
 .nav__link{
   text-decoration: none;
@@ -51,7 +52,7 @@ box-sizing: border-box;
   font-family: 'Roboto', sans-serif; 
 }
 .nav__img{
-  height:30px;
+  height:20px;
 
 }
 
