@@ -49,10 +49,11 @@ box-sizing: border-box;
   text-decoration: none;
   color: #fff;
   text-align:center;
+  font-size: 15px;
   font-family: 'Roboto', sans-serif; 
 }
 .nav__img{
-  height:20px;
+  height: 20px;
 
 }
 
