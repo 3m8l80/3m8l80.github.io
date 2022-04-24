@@ -42,8 +42,8 @@ box-sizing: border-box;
   border-radius: 40px;
   background-color: #000;
   box-sizing: border-box;
-  margin: 30px;
-  padding: 5px ;
+  margin: 20px;
+  padding: 5px;
 }
 .nav__link{
   text-decoration: none;
